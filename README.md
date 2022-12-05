@@ -243,3 +243,4 @@ run to format all files in the project.
   - `flush-npm`: remove package lock node modules and re runs install
     - `npm cache clean`
     - `npm cache verify`
+- Add fly token to github action
