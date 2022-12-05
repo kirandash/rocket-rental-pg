@@ -9,6 +9,7 @@ export default defineConfig({
 				baseUrl: `http://localhost:${port}`,
 				video: !process.env.CI,
 				screenshotOnRunFailure: !process.env.CI,
+				projectId: 'rk21wm',
 			}
 
 			// To use this:
